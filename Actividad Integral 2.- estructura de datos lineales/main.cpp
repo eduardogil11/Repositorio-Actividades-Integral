@@ -64,7 +64,7 @@ int main(int argc, char* argv[]){
 		    
 		else{
 		    s.order(bros,win); 
-		    s.search(bros,win,start,fin);
+		    s.find(bros,win,start,fin);
 		}
 	}
   
@@ -80,7 +80,7 @@ int main(int argc, char* argv[]){
 		    
 		else{
 			s.order(bros,num); 
-		  s.search(bros,num,start,fin); 
+		  s.find(bros,num,start,fin); 
 		}
 	}
 }
