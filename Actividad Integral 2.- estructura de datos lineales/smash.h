@@ -15,7 +15,7 @@ template <class T>
 class smash{		
 	public:
 	void order(vector<string> &b, vector<string> &h);
-	void search(vector<T> &b, vector<string> &h, string in, string fin);
+	void find(vector<T> &b, vector<string> &h, string in, string fin);
 };
 
 template <class T>
@@ -40,7 +40,7 @@ void smash<T>::order(vector<string> &b, vector<string> &h){
 }
 
 template <class T>
-void smash<T>::search(vector<T> &b, vector<string> &h, string in, string fin){
+void smash<T>::find(vector<T> &b, vector<string> &h, string in, string fin){
 	ofstream succes;
 	succes.open("succes.txt",ios::out);
 	for(int i=0; i<=b.size(); i++){
