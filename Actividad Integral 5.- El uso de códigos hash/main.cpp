@@ -57,7 +57,7 @@ int main(int argc, char* argv[]) {
   cout<<"\n"<<endl;
 	cout<<"2 = Saber los 5 juegos que cuenta con mas personajes."<<endl;
   cout<<"\n"<<endl;
-  cout<<"3 = Buscar las victorias de las sagas."<<endl;
+  cout<<"3 = Buscar las victorias de los juegos."<<endl;
   cout<<"\n"<<endl;
   cout<<"Selecciona: ";
 	cin>>choice;
