@@ -3,7 +3,7 @@
 
 # Explicación
 
-Para poder correrlo es necesario descargar los tres archivos el main.cpp, smash.h y smash.txt, al correr el programa nos va mostrar una interfaz donde le iremos inidicando lo que queramos, como el orden en cuanto a victorias o de mejor a peor juego de los personajes. El main.cpp le el archivo, lo ordena depende a lo que le indique el usuario y lo acomoda para poder imprimirlo. El smash.h cuenta con las funciones para poder ordenar y buscar los datos, para poder imprimirlos. El personajes.txt muestra la lista de los personajes de Super Smash Bros, los primeros números son el numero de victorias con el que cuenta cada personaje, despues es la franquicia del juego del personaje, despues seria el número de mejor a peor siendo 1 el mejor y 9 el peor juego de cada persoanje, y por ultimo, muestra el nombre del personaje. 
+Para poder correrlo es necesario descargar los tres archivos el main.cpp, smash.h y smash.txt, al correr el programa nos va mostrar una interfaz donde le iremos inidicando lo que queramos, como el orden en cuanto a victorias o de mejor a peor juego de los personajes. El main.cpp le el archivo, lo ordena depende a lo que le indique el usuario y lo acomoda para poder imprimirlo. El smash.h cuenta con las funciones para poder ordenar y buscar los datos, para poder imprimirlos. El smash.txt muestra la lista de los personajes de Super Smash Bros, los primeros números son el numero de victorias con el que cuenta cada personaje, despues es la franquicia del juego del personaje, despues seria el número de mejor a peor siendo 1 el mejor y 9 el peor juego de cada persoanje, y por ultimo, muestra el nombre del personaje. 
 
 # Análisis de complejidad
 
