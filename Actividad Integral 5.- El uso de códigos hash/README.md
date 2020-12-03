@@ -8,3 +8,29 @@ Para poder correrlo es necesario descargar los cuatro archivos el main.cpp, prog
 # Análisis de complejidad
 
 Cuando se carga el archivo personajes.txt su complejidad es O(n), ya que es lineal al tomar un ciclo para poder leerlo, y posteriormente al guardar los datos en .txt sigue siendo su complejidad O(n), ya que es lineal y recorre los datos. Para la impresion de las indicaciones y los datos que tiene que dar el usuario tiene una complejidad de O(1), ya que solo da una vuelta para realizarlo. Después buscar los datos tiene una complejidad O(n), ya que se realiza una busqueda secuencial y al momento de ordenar los datos cuenta con una complejidad O(n^2), ya que se llega a utilizar dos ciclos para poder realizar el ordenamiento, para posteriormente realizar la impresion de los datos ordenados y se guardan en un nuevo archivo llamado succes.txt que cuenta con una complejidad O(1). Para el árbol heap su complejidad es de O(log(n)), ya que el árbol se divide para así poder poner los datos y imprimirlos los datos obtenidos con una complejidad O(n). Por último, para la tabla hash su complejidad es O(1), ya que el hashing se realiza en un solo paso y buscar el número de victorias del juego tiene una complejidad O(1), ya que las busquedas se realizan en las tablas de hash.
+
+
+# Pruebas
+
+# Caso número 1
+
+INPUT:
+Selecciona: 1 
+Selecciona: 1
+Elige un numero entre 10 y 60: 10
+Elige un numero entre 10 y 60: 30
+OUTPUT:
+10 Fire_Emblem 2 Chrom  
+10 Fire_Emblem 2 Ike 
+10 Fire_Emblem 2 Lucina 
+10 Fire_Emblem 2 Marth 
+10 Fire_Emblem 2 Roy
+20 Super_Mario 1 Daisy 
+20 Super_Mario 1 Luigi 
+20 Super_Mario 1 Mario  
+20 Super_Mario 1 Peach 
+20 Super_Mario 1 Estela 
+20 Super_Mario 1 Wario 
+20 Super_Mario 1 Yoshi
+30 Donkey_Kong 5 Diddy_Kong 
+30 Donkey_Kong 5 Donkey_Kong 
