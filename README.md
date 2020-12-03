@@ -21,4 +21,4 @@ Se agrego el análisis de complejidad y los casos de prueba, y se corrigio el er
 
 
 # Actividad Integral 5.- El uso de códigos hash
-Se corrigio el hash en el hash.h y se agregaron los casos de prueba.
+Se agrego el análisis de complejidad y los casos de prueba,y se corrigio el error del hash en el hash.h.
