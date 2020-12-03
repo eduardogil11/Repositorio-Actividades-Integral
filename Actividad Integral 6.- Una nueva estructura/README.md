@@ -8,7 +8,7 @@ Para poder correrlo es necesario descargar los tres archivos el mainc.cpp, estru
 
 # Análisis de complejidad
 
-Su complejidad es O(n(log(n))^2), ya que cuenta con ciclos for y se realizan saltos para asi poder ir intercambiando los elementos que se encuentran separados.
+Cuando se carga el archivo personajes.txt su complejidad es O(n), ya que es lineal al tomar un ciclo para poder leerlo, y posteriormente al guardar los datos en .txt sigue siendo su complejidad O(n), ya que es lineal y recorre los datos. Para la impresion de las indicaciones y los datos que tiene que dar el usuario tiene una complejidad de O(1), ya que solo da una vuelta para realizarlo. Para la nueva estructura shell sort su complejidad es O(n(log(n))^2), ya que cuenta con ciclos for y se realizan saltos para asi poder ir intercambiando los elementos que se encuentran separados.
 
 
 # Referencias
