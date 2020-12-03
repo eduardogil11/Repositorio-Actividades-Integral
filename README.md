@@ -4,5 +4,7 @@ Repositorio Integral
 
 # Correciones
 
-# Act 1.1 - Funciones Iterativas, Recursivas y su análisis de Complejidad
+# Actividad Integral 1 .- Conceptos Básicos y Algoritmos Fundamentales
 Se corrigio el analisis de complejidad de las funciones iterativas y funciones recursivas.
+
+
