@@ -5,11 +5,11 @@ Repositorio Integral
 # Correciones
 
 # Actividad Integral 1 .- Conceptos Básicos y Algoritmos Fundamentales
-Se agrego el análisis de complejidad.
+Se agrego el análisis de complejidad y el caso de prueba.
 
 
 # Actividad Integral 2.- estructura de datos lineales
-Se agrego el análisis de complejidad y los casos de prueba
+Se agrego el análisis de complejidad y los casos de prueba.
 
 
 # Actividad Integral 3.- Ábroles
