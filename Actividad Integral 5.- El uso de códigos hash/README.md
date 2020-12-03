@@ -21,19 +21,36 @@ Selecciona: 1
 Selecciona: 1
 
 Elige un numero entre 10 y 60: 10
+
 Elige un numero entre 10 y 60: 30
+
 OUTPUT:
+
 10 Fire_Emblem 2 Chrom  
+
 10 Fire_Emblem 2 Ike 
+
 10 Fire_Emblem 2 Lucina 
+
 10 Fire_Emblem 2 Marth 
+
 10 Fire_Emblem 2 Roy
+
 20 Super_Mario 1 Daisy 
+
 20 Super_Mario 1 Luigi 
+
 20 Super_Mario 1 Mario  
+
 20 Super_Mario 1 Peach 
+
 20 Super_Mario 1 Estela 
+
 20 Super_Mario 1 Wario 
+
 20 Super_Mario 1 Yoshi
+
 30 Donkey_Kong 5 Diddy_Kong 
+
 30 Donkey_Kong 5 Donkey_Kong 
+
