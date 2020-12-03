@@ -1,4 +1,4 @@
-# Repositorio-Actividades-Integral
+# Repositorio-Actividades-Integrales
 Repositorio Integral 
 
 
