@@ -15,7 +15,7 @@ Se agrego el análisis de complejidad.
 Se agrego el análisis de complejidad.
 
 # Actividad Integral 4 .- Grafos
-Se agrego el análisis de complejidad.
+Se agrego el análisis de complejidad y se corrigio el error de los acentos en el program.h
 
 # Actividad Integral 5.- El uso de códigos hash
 Se corrigio el hash en el hash.h y se agregaron los casos de prueba
