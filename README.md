@@ -15,3 +15,6 @@ Se corrigio el analisis de complejidad de las funciones iterativas y funciones r
 
 
 # Actividad Integral 4 .- Grafos
+
+
+# Actividad Integral 5.- El uso de códigos hash
