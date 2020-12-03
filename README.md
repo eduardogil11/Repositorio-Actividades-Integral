@@ -9,7 +9,7 @@ Se agrego el análisis de complejidad.
 
 
 # Actividad Integral 2.- estructura de datos lineales
-Se agrego el análisis de complejidad.
+Se agrego el análisis de complejidad y se agrego el caso de prueba
 
 # Actividad Integral 3.- Ábroles
 Se agrego el análisis de complejidad.
