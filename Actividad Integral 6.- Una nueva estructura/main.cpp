@@ -59,9 +59,9 @@ int main(int argc, char* argv[]) {
     cin>>choice;
     
     if(choice == 1) {
-    	Sort<float>sal;
+    	Shell<float>an;
     	int tam=sizeof(year)/sizeof(year[0]);
-    	sal.order_data(year,tam,v);
+    	an.order_data(year,tam,v);
     	for(int i=0; i<tam; i++) {
     		cout<<"\n"<<v[i];
     		out<<v[i];
@@ -69,14 +69,14 @@ int main(int argc, char* argv[]) {
 		}			
 	}
 	else if(choice == 2) {
-		Sort<int> ed;
-    	int tam=sizeof(anniversary)/sizeof(anniversary[0]);
-    	ed.order_data(anniversary,tam,v);
-    	for(int i=0; i<tam; i++) {
-    		cout<<"\n"<<v[i];
-    		out<<v[i];
-    		out<<"\n";
-		}
+		Shell<int> exi;
+    	        int tam=sizeof(anniversary)/sizeof(anniversary[0]);
+    	        exi.order_data(anniversary,tam,v);
+    	        for(int i=0; i<tam; i++) {
+    		  cout<<"\n"<<v[i];
+    		  out<<v[i];
+    		  out<<"\n";
+		  }
 	}
 	else {
 		cout<<"\n\nError";
