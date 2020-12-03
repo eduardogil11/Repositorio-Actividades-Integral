@@ -1,5 +1,5 @@
 # Repositorio-Actividades-Integrales
-Repositorio Integral 
+Repositorio Integrales 
 
 
 # Correciones
