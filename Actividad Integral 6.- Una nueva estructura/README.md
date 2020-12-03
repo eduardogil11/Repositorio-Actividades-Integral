@@ -8,9 +8,13 @@ Para poder correrlo es necesario descargar los tres archivos el mainc.cpp, estru
 
 # Análisis de complejidad
 
-Su complejidad es 
+Su complejidad es O(n(log(n))^2), ya que cuenta con ciclos for y se realizan saltos para asi poder ir intercambiando los elementos que se encuentran separados.
 
-Es O(n(log(n))^2), gracias a los saltos que da para intercambiar los elementos separados y por los ciclos for que realiza.
+
+# Referencias
+
+NA. (NA). Shell Sort Algorithm. 03/12/2020, de Programiz Sitio web: https://www.programiz.com/dsa/shell-sort#:~:text=According%20to%20Poonen%20Theorem%2C%20worst,2)%20or%20something%20in%20between.&text=When%20the%20array%20is%20already,the%20size%20of%20the%20array.&text=It%20is%20around%20O(n1.25)%20.
+
 
 
 # Casos de Pruebas
