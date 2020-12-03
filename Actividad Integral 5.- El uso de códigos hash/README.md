@@ -104,3 +104,37 @@ OUTPUT:
 50 The_Legend_of_Zelda 3 Ganondorf 
 
 50 The_Legend_of_Zelda 3 Zelda
+
+
+# Caso número 3
+
+INPUT:
+
+Selecciona: 2
+
+OUTPUT:
+
+Los 5 juegos que cuenta con mas personajes en Super Smash Bros:
+
+1 = The_Legend_of_Zelda
+
+2 = Fire_Emblem
+
+3 = Super_Mario
+
+4 = The_Legend_of_Zelda
+
+5 = Kirby
+
+
+# Caso número 4
+
+INPUT:
+
+Selecciona: 3
+
+De que juego quieres saber sus victorias: Pokemon
+
+OUTPUT:
+
+Victorias: 60
