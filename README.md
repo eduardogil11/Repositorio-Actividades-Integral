@@ -18,3 +18,4 @@ Se agrego el análisis de complejidad.
 Se agrego el análisis de complejidad.
 
 # Actividad Integral 5.- El uso de códigos hash
+Se corrigio el hash en el hash.h y se agregaron los casos de prueba
