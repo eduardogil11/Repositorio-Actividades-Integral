@@ -8,3 +8,4 @@ Repositorio Integral
 Se corrigio el analisis de complejidad de las funciones iterativas y funciones recursivas.
 
 
+# Actividad Integral 2.- estructura de datos lineales
