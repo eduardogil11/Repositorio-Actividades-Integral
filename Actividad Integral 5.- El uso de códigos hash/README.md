@@ -54,3 +54,53 @@ OUTPUT:
 
 30 Donkey_Kong 5 Donkey_Kong 
 
+
+# Caso número 2
+
+INPUT:
+
+Selecciona: 1
+
+Selecciona: 2
+
+Elige un numero entre 1 y 6: 1
+
+Elige un numero entre 1 y 6: 3
+
+OUTPUT:
+
+20 Super_Mario 1 Daisy 
+
+20 Super_Mario 1 Estela 
+
+20 Super_Mario 1 Luigi 
+
+20 Super_Mario 1 Mario  
+
+20 Super_Mario 1 Peach 
+
+20 Super_Mario 1 Wario 
+
+20 Super_Mario 1 Yoshi
+
+10 Fire_Emblem 2 Ike 
+
+10 Fire_Emblem 2 Lucina 
+
+10 Fire_Emblem 2 Marth 
+
+10 Fire_Emblem 2 Chrom  
+
+10 Fire_Emblem 2 Roy
+
+50 The_Legend_of_Zelda 3 Link 
+
+50 The_Legend_of_Zelda 3 Link_Niño 
+
+50 The_Legend_of_Zelda 3 Sheik 
+
+50 The_Legend_of_Zelda 3 Toon_Link
+
+50 The_Legend_of_Zelda 3 Ganondorf 
+
+50 The_Legend_of_Zelda 3 Zelda
