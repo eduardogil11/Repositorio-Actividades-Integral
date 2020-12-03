@@ -17,13 +17,13 @@
 using namespace std;
 
 template <class T>
-class Sort {
+class Shell {
 	public:
   void order_data(vector<T> &r, int tam, vector<string> &m);
 };
 
 template <class T>
-void Sort<T>::order_data(vector<T> &r, int tam, vector<string> &m) {
+void Shell<T>::order_data(vector<T> &r, int tam, vector<string> &m) {
 	for (int gap=tam/2; gap>0; gap/=2) { 
         for (int i=gap; i<tam; i+=1) { 
             int temp = r[i];
