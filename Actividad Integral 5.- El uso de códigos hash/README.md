@@ -15,8 +15,11 @@ Cuando se carga el archivo personajes.txt su complejidad es O(n), ya que es line
 # Caso número 1
 
 INPUT:
+
 Selecciona: 1 
+
 Selecciona: 1
+
 Elige un numero entre 10 y 60: 10
 Elige un numero entre 10 y 60: 30
 OUTPUT:
