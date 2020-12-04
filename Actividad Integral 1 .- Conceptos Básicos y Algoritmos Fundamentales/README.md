@@ -14,6 +14,10 @@ Cuando se carga el archivo smash.txt su complejidad es O(n), ya que es lineal al
 
 # Caso número 1
 
+INPUT:
+
+Corre programa
+
 OUTPUT:
 
 Super_Mario 1 Daisy 
