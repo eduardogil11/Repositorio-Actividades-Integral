@@ -12,6 +12,10 @@ Cuando se carga el archivo personajes.txt su complejidad es O(n), ya que es line
 
 # Caso número 1
 
+INPUT:
+
+Corre programa
+
 OUTPUT:
 
 (6 1 0 5 3 2 4 8 7 9)
