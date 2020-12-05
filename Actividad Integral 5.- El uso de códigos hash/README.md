@@ -2,7 +2,15 @@
 
 # Explicación
 
-Para poder correrlo es necesario descargar los cuatro archivos el main.cpp, program.h, hash.h y personajes.txt, al correr el programa nos muestra una interfaz donde el usuario le ira inidicando lo que quiera, como el orden en cuanto a victorias o de mejor a peor juego de los personajes, el acomodo de los arboles en heap de la franquicia de los juegos de los personajes de Super Smash Bros, y nos muestra los 5 juegos que cuenta con más personajes en Smash o elegir un juego para saber sus victorias con la funcion hash. El main.cpp le el archivo, lo ordena depende a lo que le indique el usuario y lo acomoda para poder imprimirlo. El program.h cuenta con las funciones para poder realizar el acomodo del árbol, visto en clase, y el acomodo de los personajes para posteriormente imprimirlos. El hash.h realiza la funcion hash para poder mostrar las victorias del juego que el usuario le indique. El personajes.txt muestra la lista de los personajes de Super Smash Bros, los primeros números son las victorias con las que cuenta cada personaje, después es la franquicia del juego de cada personaje, después seria el número de mejor a peor siendo 1 el mejor y 6 el peor juego de cada personaje, y por ultimo muestra el nombre del personaje.
+Para poder correrlo es necesario descargar los tres archivos el main.cpp, hash.h y personajes.txt, al correr el programa nos muestra una interfaz donde el usuario le ira inidicando lo que quiera. El main.cpp le el archivo, lo ordena depende a lo que le indique el usuario y lo acomoda para poder imprimirlo. El hash.h realiza la funcion hash para poder mostrar la victoria cambiada del juego que el usuario le indique. El personajes.txt muestra la lista de los juegos de Super Smash Bros y las victorias con las que cuentan cada juego.
+
+# Necesario
+
+Es necesario cambiar primero una victoria del juego seleccionando: 1, para poder imprimir el archivo succes.txt con la victoria que cambio el usuario y después seleccionar: 2. 
+
+De lo contrario si se selecciona: 2 primero sin haber cambiado una victoria antes manda "Error" para que lo realices de nuevo.
+
+Si se selecciona: 3 abandonas la base de datos
 
 # Análisis de complejidad
 
