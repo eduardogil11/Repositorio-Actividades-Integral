@@ -40,36 +40,82 @@ OUTPUT:
 
 INPUT:
 
-Selecciona: 1
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Fire_Emblem
+
+Elige un numero entre 10 y 60: 10
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Super_Mario
+
+Elige un numero entre 10 y 60: 30
 
 Selecciona: 2
 
-Elige un numero entre 1 y 6: 1
-
-Elige un numero entre 1 y 6: 3
-
 OUTPUT:
 
-
+1. Super_Mario: 30, 14. Fire_Emblem: 10, 
 
 # Caso número 3
 
 INPUT:
 
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Fire_Emblem
+
+Elige un numero entre 10 y 60: 10
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Super_Mario
+
+Elige un numero entre 10 y 60: 30
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Pokemon
+
+Elige un numero entre 10 y 60: 60
+
 Selecciona: 2
 
 OUTPUT:
 
-
-
+1. Super_Mario: 30, 9. Pokemon: 60, 14. Fire_Emblem: 10, 
 
 # Caso número 4
 
 INPUT:
 
-Selecciona: 3
+Selecciona: 1 
 
-De que juego quieres saber sus victorias: Pokemon
+De que juego quieres modificar sus victorias: Fire_Emblem
+
+Elige un numero entre 10 y 60: 10
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Super_Mario
+
+Elige un numero entre 10 y 60: 30
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Pokemon
+
+Elige un numero entre 10 y 60: 60
+
+Selecciona: 1 
+
+De que juego quieres modificar sus victorias: Kirby
+
+Elige un numero entre 10 y 60: 50
+
+Selecciona: 2
 
 OUTPUT:
 
+1. Super_Mario: 30, 3. Kirby: 50, 9. Pokemon: 60, 14. Fire_Emblem: 10,
