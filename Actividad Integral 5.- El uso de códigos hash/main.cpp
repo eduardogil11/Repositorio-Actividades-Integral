@@ -14,7 +14,7 @@
 
 using namespace std;
 
-unsigned int myHash(const string s) {
+unsigned int Hashing(const string s) {
 	unsigned int acum = 0;
 	for (unsigned int i = 0; i < s.size(); i++) {
 		acum += (int) s[i];
@@ -40,7 +40,7 @@ int main() {
                  }
                  datos.close();
 
-    Hash <string, int> chain_hash(15, myHash); 
+    Hash <string, int> chain_hash(15, Hashing); 
 
     bool exit = false;
     while(exit == false) {
