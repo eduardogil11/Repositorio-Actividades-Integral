@@ -25,41 +25,15 @@ INPUT:
 
 Selecciona: 1 
 
-Selecciona: 1
+De que juego quieres modificar sus victorias: Fire_Emblem
 
 Elige un numero entre 10 y 60: 10
 
-Elige un numero entre 10 y 60: 30
+Selecciona: 2
 
 OUTPUT:
 
-10 Fire_Emblem 2 Chrom  
-
-10 Fire_Emblem 2 Ike 
-
-10 Fire_Emblem 2 Lucina 
-
-10 Fire_Emblem 2 Marth 
-
-10 Fire_Emblem 2 Roy
-
-20 Super_Mario 1 Daisy 
-
-20 Super_Mario 1 Luigi 
-
-20 Super_Mario 1 Mario  
-
-20 Super_Mario 1 Peach 
-
-20 Super_Mario 1 Estela 
-
-20 Super_Mario 1 Wario 
-
-20 Super_Mario 1 Yoshi
-
-30 Donkey_Kong 5 Diddy_Kong 
-
-30 Donkey_Kong 5 Donkey_Kong 
+14. Fire_Emblem: 10
 
 
 # Caso número 2
@@ -76,41 +50,6 @@ Elige un numero entre 1 y 6: 3
 
 OUTPUT:
 
-20 Super_Mario 1 Daisy 
-
-20 Super_Mario 1 Estela 
-
-20 Super_Mario 1 Luigi 
-
-20 Super_Mario 1 Mario  
-
-20 Super_Mario 1 Peach 
-
-20 Super_Mario 1 Wario 
-
-20 Super_Mario 1 Yoshi
-
-10 Fire_Emblem 2 Ike 
-
-10 Fire_Emblem 2 Lucina 
-
-10 Fire_Emblem 2 Marth 
-
-10 Fire_Emblem 2 Chrom  
-
-10 Fire_Emblem 2 Roy
-
-50 The_Legend_of_Zelda 3 Link 
-
-50 The_Legend_of_Zelda 3 Link_Niño 
-
-50 The_Legend_of_Zelda 3 Sheik 
-
-50 The_Legend_of_Zelda 3 Toon_Link
-
-50 The_Legend_of_Zelda 3 Ganondorf 
-
-50 The_Legend_of_Zelda 3 Zelda
 
 
 # Caso número 3
@@ -121,17 +60,7 @@ Selecciona: 2
 
 OUTPUT:
 
-Los 5 juegos que cuenta con mas personajes en Super Smash Bros:
 
-1 = The_Legend_of_Zelda
-
-2 = Fire_Emblem
-
-3 = Super_Mario
-
-4 = The_Legend_of_Zelda
-
-5 = Kirby
 
 
 # Caso número 4
@@ -144,4 +73,3 @@ De que juego quieres saber sus victorias: Pokemon
 
 OUTPUT:
 
-Victorias: 60
