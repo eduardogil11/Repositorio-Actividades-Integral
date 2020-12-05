@@ -79,7 +79,7 @@ int main() {
             cout<<"5. The_Legend_of_Zelda"<<endl;
             cout<<"6. Kirby"<<endl;
             cout<<"\n"<<endl;
-            cout<<"De que juego quieres modificar sus victorias (Escribir solo el nombre): ";
+            cout<<"De que juego quieres modificar sus victorias (Escribir solo el nombre con el guion bajo): ";
             cin >> add_juego;
             if(add_juego=="Fire_Emblem" 
             || add_juego=="Super_Mario" 
