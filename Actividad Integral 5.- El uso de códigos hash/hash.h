@@ -76,7 +76,7 @@ string Hash<Key, Value>::toString() {
 				for (int j = 0; j < keys[i].size(); j ++){
 						 aux<<". "<<keys[i][j]<< ": "<< values[i][j]<<"";
 				}
-				aux<<"";
+				aux<<", ";
 			}
 	}
 	return aux.str();
